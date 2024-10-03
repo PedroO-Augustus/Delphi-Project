@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/02 09:11:25.000.515,=C:\Users\supor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/02 09:14:54.000.145,C:\Users\supor\Documents\Projetos\PDelphi\View.Main.pas=C:\Users\supor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/02 09:14:54.000.145,C:\Users\supor\Documents\Projetos\PDelphi\View.Main.dfm=C:\Users\supor\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/10/02 09:15:47.000.169,C:\Users\supor\Documents\Projetos\PDelphi\Project1.dproj=C:\Users\supor\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/10/02 10:34:33.000.859,=C:\Users\supor\Documents\Projetos\PDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/02 10:34:53.000.219,=C:\Users\supor\Documents\Projetos\PDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/02 10:35:33.000.423,C:\Users\supor\Documents\Projetos\PDelphi\Data.Uni1.dfm=C:\Users\supor\Documents\Projetos\PDelphi\Unit1.dfm</Transaction>
+    <Transaction>2024/10/02 10:35:33.000.423,C:\Users\supor\Documents\Projetos\PDelphi\Data.Uni1.pas=C:\Users\supor\Documents\Projetos\PDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/02 12:41:08.000.112,=C:\Users\supor\Documents\Projetos\PDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/02 12:46:15.000.110,=C:\Users\supor\Documents\Projetos\PDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/02 12:46:56.000.346,=C:\Users\supor\Documents\Projetos\PDelphi\Unit2.pas</Transaction>
+    <Transaction>2024/10/02 12:47:15.000.764,=C:\Users\supor\Documents\Projetos\PDelphi\Unit2.pas</Transaction>
+    <Transaction>2024/10/02 12:55:54.000.529,C:\Users\supor\Documents\Projetos\PDelphi\Form.Unit1.pas=C:\Users\supor\Documents\Projetos\PDelphi\Unit2.pas</Transaction>
+    <Transaction>2024/10/02 12:55:54.000.529,C:\Users\supor\Documents\Projetos\PDelphi\Form.Unit1.dfm=C:\Users\supor\Documents\Projetos\PDelphi\Unit2.dfm</Transaction>
+    <Transaction>2024/10/02 17:58:43.000.786,=C:\Users\supor\Documents\Projetos\PDelphi\Unit3.pas</Transaction>
+    <Transaction>2024/10/02 17:59:01.000.351,C:\Users\supor\Documents\Projetos\PDelphi\Unit3.pas=C:\Users\supor\Documents\Projetos\PDelphi\Login.Unit1.pas</Transaction>
+    <Transaction>2024/10/02 17:59:01.000.351,C:\Users\supor\Documents\Projetos\PDelphi\Unit3.dfm=C:\Users\supor\Documents\Projetos\PDelphi\Login.Unit1.dfm</Transaction>
+    <Transaction>2024/10/02 22:00:00.000.399,=C:\Users\supor\Documents\Projetos\PDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/02 22:00:21.000.995,C:\Users\supor\Documents\Projetos\PDelphi\Unit1.pas=C:\Users\supor\Documents\Projetos\PDelphi\CPFCheck.Uni1.pas</Transaction>
+    <Transaction>2024/10/02 22:17:18.000.948,C:\Users\supor\Documents\Projetos\PDelphi\CPFCheck.Uni1.pas=</Transaction>
+    <Transaction>2024/10/02 22:38:44.000.745,=C:\Users\supor\Documents\Projetos\PDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/02 22:38:57.000.344,C:\Users\supor\Documents\Projetos\PDelphi\Unit1.pas=C:\Users\supor\Documents\Projetos\PDelphi\User.Unit1.pas</Transaction>
+    <Transaction>2024/10/02 22:39:53.000.340,=C:\Users\supor\Documents\Projetos\PDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/02 22:40:25.000.337,=C:\Users\supor\Documents\Projetos\PDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/03 08:15:32.000.010,=C:\Users\supor\Documents\Projetos\PDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/03 08:15:43.000.951,C:\Users\supor\Documents\Projetos\PDelphi\Unit1.pas=C:\Users\supor\Documents\Projetos\PDelphi\User.Unit1.pas</Transaction>
+    <Transaction>2024/10/03 08:15:43.000.951,C:\Users\supor\Documents\Projetos\PDelphi\Unit1.dfm=C:\Users\supor\Documents\Projetos\PDelphi\User.Unit1.dfm</Transaction>
+    <Transaction>2024/10/03 08:27:20.000.238,C:\Users\supor\Documents\Projetos\PDelphi\Form.Unit1.pas=C:\Users\supor\Documents\Projetos\PDelphi\MainMenu.Unit1.pas</Transaction>
+    <Transaction>2024/10/03 08:27:20.000.238,C:\Users\supor\Documents\Projetos\PDelphi\Form.Unit1.dfm=C:\Users\supor\Documents\Projetos\PDelphi\MainMenu.Unit1.dfm</Transaction>
+    <Transaction>2024/10/03 10:03:40.000.053,=C:\Users\supor\Documents\Projetos\PDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/03 10:03:50.000.538,C:\Users\supor\Documents\Projetos\PDelphi\Unit1.pas=C:\Users\supor\Documents\Projetos\PDelphi\Utils.Unit1.pas</Transaction>
+    <Transaction>2024/10/03 12:52:53.000.209,=C:\Users\supor\Documents\Projetos\PDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/10/03 12:53:07.000.995,C:\Users\supor\Documents\Projetos\PDelphi\Unit1.pas=C:\Users\supor\Documents\Projetos\PDelphi\CPFChecker.Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Data.Unit1.pas"/>
+    <File Path="Data.Unit1.dfm"/>
+    <File Path="MainMenu.Unit1.pas"/>
+    <File Path="MainMenu.Unit1.dfm"/>
+    <File Path="Login.Unit1.pas"/>
+    <File Path="Login.Unit1.dfm"/>
+    <File Path="Customer.Unit1.pas"/>
+    <File Path="Customer.Unit1.dfm"/>
+    <File Path="User.Unit1.pas"/>
+    <File Path="User.Unit1.dfm"/>
+    <File Path="Utils.Unit1.pas"/>
+    <File Path="CPFChecker.Unit1.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
